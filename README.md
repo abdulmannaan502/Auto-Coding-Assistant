@@ -6,7 +6,8 @@
 Tired of staring at a blank screen or scratching your head over complex code? Meet your new best friend: the **Auto Coding Assistant**! This intuitive AI-powered tool, built with a snappy React frontend and a robust FastAPI backend, is designed to **supercharge your coding workflow**. Leveraging the power of the **StarCoder 1B model (or similar)**, it can magically generate code from your ideas and demystify existing snippets with insightful explanations.
 
 ---
-![image]([https://example.com/your-image.png](https://github.com/abdulmannaan502/Auto-Coding-Assistant/blob/main/Images/1.png))
+## 📊 Image of Webpage
+![Webpage](https://github.com/abdulmannaan502/Auto-Coding-Assistant/main/Images/1.png)
 
 ## ✨ What Can It Do For You?
 
