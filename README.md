@@ -1,3 +1,5 @@
+![image]([https://example.com/your-image.png](https://github.com/abdulmannaan502/Auto-Coding-Assistant/blob/main/Images/1.png))
+
 ```markdown
 # 🚀 Auto Coding Assistant: Your AI-Powered Coding Sidekick
 
