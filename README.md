@@ -1,4 +1,4 @@
-```markdown
+
 ![image]([https://example.com/your-image.png](https://github.com/abdulmannaan502/Auto-Coding-Assistant/blob/main/Images/1.png))
 
 # 🚀 Auto Coding Assistant: Your AI-Powered Coding Sidekick
@@ -112,4 +112,4 @@ For those who love to peek under the hood:
 ## 📜 License
 
 This project is proudly released under the **Apache 2.0 License © 2025 Abdul Mannaan**.
-```
+
