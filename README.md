@@ -7,7 +7,7 @@ Tired of staring at a blank screen or scratching your head over complex code? Me
 
 ---
 ## 📊 Image of Webpage
-![Webpage](https://github.com/abdulmannaan502/Auto-Coding-Assistant/main/Images/1.png)
+![Webpage](https://github.com/abdulmannaan502/Auto-Coding-Assistant/blob/main/Images/1.png)
 
 ## ✨ What Can It Do For You?
 
